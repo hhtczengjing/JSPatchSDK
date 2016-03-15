@@ -1,2 +1,3 @@
 # JSPatchSDK
-JSPatch SDK Framework CocoaPods
+
+JSPatch SDK CocoaPods版本
